@@ -1,0 +1,42 @@
+.bg {
+    background-color: gray;
+}
+.container {
+    width :800px;
+    margin:auto;
+}
+.align {
+    text-align: right;
+}
+.Sides {
+    display:inline;
+    background-color:gray;
+
+}
+.row {
+    display: flex;
+    flex-wrap:wrap;
+}
+.main .box {
+    
+    width: 20%;
+    margin:auto;
+}
+.main .box1 {
+    width: 50%;
+    margin: auto;
+}
+.align1 {
+    text-align:justify;
+}
+h4 {
+    display: inline;
+}
+.Sides1 {
+    display:block;
+    background-color:gray;
+    
+}
+p {
+    font-size: medium;
+}
